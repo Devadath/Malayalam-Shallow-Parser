@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+     <configdetails>
+	<wordlevleoutput_with_splitpoints>sandhi_rules/testNtrainData999/mal9/san.out.sp</wordlevleoutput_with_splitpoints>
+        <wordleveloutput_without_splitpoints>sandhi_rules/testNtrainData999/mal9/san.out.nsp</wordleveloutput_without_splitpoints>
+        <plain_text_output>/home/devadath/Videos/togithub/san.out</plain_text_output>
+        <patternfile>sandhi_rules/testNtrainData999/mal9/pattern9</patternfile>
+        <splitPointNoOfCharacters>6</splitPointNoOfCharacters>
+        <initialSkipProbClaculation>1</initialSkipProbClaculation>
+        <trainingfile>sandhi_rules/testNtrainData999/mal9/Sandhi_9999</trainingfile>
+        <inputDatafile>/home/devadath/Videos/togithub/test_corp_1000</inputDatafile>
+          <inputDatafileSplitDetail>sandhi_rules/testNtrainData999/mal9/inputDatafileSplitDetail</inputDatafileSplitDetail>
+           <ErrorSplitFile>sandhi_rules/testNtrainData999/mal9/ErrorSplit9</ErrorSplitFile>
+           <AccurateSplitFile>sandhi_rules/testNtrainData999/mal9/CorrectSplitedPoints9</AccurateSplitFile>
+           <DummyTrainingFileRecord>sandhi_rules/testNtrainData999/mal9/train.annot</DummyTrainingFileRecord>
+         </configdetails>
+</config>
