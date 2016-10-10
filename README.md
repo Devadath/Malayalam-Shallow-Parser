@@ -12,5 +12,6 @@ Currently this system is tested only in Ubuntu 16.04 LTS.
 - 1) $ cd  Malayalam-Shallow-Parser
 - 2) Replace text in the file "input.txt" with your text.
 - 3) $ sh shallowPaser.sh
+
 # Reference
 - If you have used this, please cite the paper https://www.aclweb.org/anthology/P/P16/P16-3006.pdf .
