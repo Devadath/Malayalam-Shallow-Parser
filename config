@@ -3,7 +3,7 @@
      <configdetails>
 	<wordlevleoutput_with_splitpoints>./sandhi_rules/testNtrainData999/mal9/san.out.sp</wordlevleoutput_with_splitpoints>
         <wordleveloutput_without_splitpoints>./sandhi_rules/testNtrainData999/mal9/san.out.nsp</wordleveloutput_without_splitpoints>
-        <plain_text_output>/home/devadath/Videos/togithub/san.out</plain_text_output>
+        <plain_text_output>./san.out</plain_text_output>
         <patternfile>./sandhi_rules/testNtrainData999/mal9/pattern9</patternfile>
         <splitPointNoOfCharacters>6</splitPointNoOfCharacters>
         <initialSkipProbClaculation>1</initialSkipProbClaculation>
