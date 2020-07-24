@@ -8,9 +8,13 @@ Make sure that you have installed crf++.  If not, install the latest version fro
 * For tokenising I have used the tokenisor from https://github.com/ltrc/indic-tokenizer, which is already present in this directory.
 
 # Usage :
-- 1) $ cd  Malayalam-Shallow-Parser
-- 2) Replace text in the file "input.txt" with your text.
-- 3) $ sh shallowPaser.sh
+ ```
+$ cd  Malayalam-Shallow-Parser
+```
+ -> Replace text in the file "input.txt" with your text.
+```
+$ sh shallowPaser.sh
+```
 
 # Publication.
-- If you have used this, please cite the paper https://www.aclweb.org/anthology/P/P16/P16-3006.pdf .
+If you have used this package, please cite the paper https://www.aclweb.org/anthology/P/P16/P16-3006.pdf .
